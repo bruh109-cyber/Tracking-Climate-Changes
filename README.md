@@ -24,3 +24,9 @@ A Python application for visualizing and analyzing climate trend data using `mat
    ```bash
    git clone [https://github.com/bruh109-cyber/Tracking-Climate-Changes.git](https://github.com/bruh109-cyber/Tracking-Climate-Changes.git)
    cd Tracking-Climate-Changes
+Install dependencies:
+   pip install matplotlib pandas
+Usage:
+   python Tracking Climate Changes.py
+├── Tracking Climate Changes.py          # Script for loading data and rendering plots
+└── README.md        # Documentation
